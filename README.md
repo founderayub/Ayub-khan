@@ -27,3 +27,4 @@ To empower entrepreneurs and businesses by building one of Pakistan's leading di
 - Website: https://www.zamashops.com
 - LinkedIn: https://www.linkedin.com/in/founderayub
 - Email: info@zamashops.com
+- Website: https://www.founderayub.com 
