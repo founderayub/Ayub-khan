@@ -1,4 +1,4 @@
-# Muhammad Ayub Khan
+# Founder Ayub Khan
 
 Founder & CEO of Zama Shops (Private) Limited.
 
@@ -27,4 +27,6 @@ To empower entrepreneurs and businesses by building one of Pakistan's leading di
 - Website: https://www.zamashops.com
 - LinkedIn: https://www.linkedin.com/in/founderayub
 - Email: info@zamashops.com
-- Website: https://www.founderayub.com 
+- Website: https://www.founderayub.com
+
+- [![Peerlist](https://github-readme-badge.peerlist.io/api/founderayub)](https://peerlist.io/founderayub)
