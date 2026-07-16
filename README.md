@@ -29,4 +29,5 @@ To empower entrepreneurs and businesses by building one of Pakistan's leading di
 - Email: info@zamashops.com
 - Website: https://www.founderayub.com
 
-- [![Peerlist](https://github-readme-badge.peerlist.io/api/founderayub)](https://peerlist.io/founderayub)
+  
+[![Peerlist](https://github-readme-badge.peerlist.io/api/founderayub?style=social)](https://peerlist.io/founderayub)
